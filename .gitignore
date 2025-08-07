@@ -1,0 +1,23 @@
+# Office & data files
+*.xls
+*.xlsx
+*.xlsm
+*.csv
+*.doc*
+*.ppt*
+*.pdf
+*.html
+
+
+# Build/output artefacts
+/output/
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
